@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../LVGL Test/fonts"
+		},
+		{
+			"path": "../LVGL Test/images"
+		},
+		{
+			"path": "../LVGL Test/screens"
+		},
+		{
+			"path": "../LVGL Test/utilities"
+		},
+		{
+			"path": "../LVGL Test/widgets"
+		}
+	],
+	"settings": {}
+}
